@@ -13,7 +13,7 @@ Atliq Grands owns multiple five-star hotels across India. They have been in the 
 ## DATA MODEL
 ![image alt](https://github.com/akhil2004-design/Hospitality-Analysis-power-BI/blob/19bc618b393db581e9cc4e80532717543c661724/Screenshot%202024-11-12%20233344.png)
 ## OVER ALL ANALYSIS VIEW
-Screenshot 2024-11-19 193859.png
+https://github.com/akhil2004-design/Hospitality-Analysis-power-BI/blob/69b0421bf8a0791ca53c2926474526b9542cb96b/Screenshot%202024-11-19%20193859.png
 
  
 
